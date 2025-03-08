@@ -27,7 +27,7 @@ Skilled in data cleaning, analysis, and creating insightful dashboards to suppor
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with deep learning frameworks.
 - 💬 Ask me about Data Analyst, especially using python and Machine Learning.
-- 📫 How to reach me: [Email,Instagram](mailto:your-ksathish95606@gmail.com,mailto:your-s)
+- 📫 How to reach me: [Email](mailto:your-ksathish95606@gmail.com,mailto:your-s)
 - 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
