@@ -1,7 +1,7 @@
 @@ -1,60 +1,65 @@
 <h1 align="center"><code>Welcome To My GitHub page </code></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=221DF7&width=435&lines=Hello+%F0%9F%91%8B;I'm+Deepak....;Turning+data+to+action+insights%F0%9F%93%8A;Checkout+my+Dashboards%F0%9F%93%8A+;and+check+out+my+Repo" alt="Typing SVG" /></a>
+
 
 
 ## Hi there 👋 It's me Sathish kumar S
